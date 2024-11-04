@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['starttick_0',['startTick',['../class_h_h_scan_report.html#af44464179561d6de2766b6fbf53ad984',1,'HHScanReport']]],
-  ['starttime_1',['startTime',['../class_h_h_scan_report.html#ac7328ab46e540fe06c1ac5969a8230f5',1,'HHScanReport']]],
-  ['suspend_5fsuspicious_2',['suspend_suspicious',['../structhh__params.html#ada2ba65bfb7d9e5395dd38ad4003d1cd',1,'hh_params']]],
-  ['suspicious_3',['suspicious',['../class_h_h_scan_report.html#a8ec4849570e43fbf4a915300becceb92',1,'HHScanReport']]]
+  ['obj_5fmgr_0',['obj_mgr',['../struct_e_t_w_profile.html#a4cbcf0b0cbe9a1caad6a68278e5aeeb1',1,'ETWProfile']]],
+  ['out_5fdir_1',['out_dir',['../structhh__params.html#a7777b45895ca0788d061e1f4c5f60a7b',1,'hh_params']]],
+  ['outdir_2',['outDir',['../class_h_h_scanner.html#a238a4958607b0f74d44c27c1505b1906',1,'HHScanner']]]
 ];

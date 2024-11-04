@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['failed_0',['failed',['../class_h_h_scan_report.html#afd589b693a8bcaae6ac6dea7d77ba57c',1,'HHScanReport']]]
+  ['cache_5fmode_0',['cache_mode',['../structhh__params.html#ac4cacfe91f614f8bba8a128c137c1f11',1,'hh_params']]]
 ];
